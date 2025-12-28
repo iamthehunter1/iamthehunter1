@@ -1,16 +1,64 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=32&duration=3500&pause=1000&color=F9A826&center=true&vCenter=true&width=800&lines=iamthehunter1;Building+SHIELD;Engineering+Security+With+Purpose" alt="Typing SVG" />
+</p>
 
-<!--
-**iamthehunter1/iamthehunter1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Web • PWAs • Android • Cybersecurity • Bash • Python
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ About Me
+- 🧠 Learning cybersecurity, systems & strategic engineering  
+- 🛡️ Building **SHIELD** — a long-term intelligence initiative  
+- 🎯 Focused on scalable, secure, and purposeful tech  
+
+---
+
+## 🗂️ Work in Progress
+- **SHIELD internal tools**
+- Automation & security experiments
+- Private research projects
+
+---
+
+## 🛠️ Tech Stack
+> *Designing systems, testing limits, automating control.*
+
+### 💻 Domains
+- **Web Engineering** — PWAs, frontend systems  
+- **Mobile** — React Native & installable PWAs  
+- **Security Foundations** — OSINT, recon, labs  
+- **Automation** — Bash scripting, CLI workflows  
+- **Python** — utilities, scripts, rapid tooling  
+
+---
+
+## ⚙️ Loadout
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Arch_Based-black?style=for-the-badge&logo=linux&logoColor=%23f9a826" />
+  <img src="https://img.shields.io/badge/Bash-Automation-black?style=for-the-badge&logo=gnu-bash&logoColor=%23f9a826" />
+  <img src="https://img.shields.io/badge/Python-Utilities-black?style=for-the-badge&logo=python&logoColor=%23f9a826" />
+  <img src="https://img.shields.io/badge/React%20%2B%20Vite-Web-black?style=for-the-badge&logo=react&logoColor=%23f9a826" />
+  <img src="https://img.shields.io/badge/PWA-Android-black?style=for-the-badge&logo=pwa&logoColor=%23f9a826" />
+  <img src="https://img.shields.io/badge/Security-OSINT-black?style=for-the-badge&logo=protonvpn&logoColor=%23f9a826" />
+</p>
+
+---
+
+## 🧭 Currently Learning
+- Advanced React Native  
+- PWA → Android workflows  
+- Ethical OSINT  
+- Bash + Python automation  
+
+---
+
+## 📫 Info
+📍 India  
+🌐 Quiet work. Long-term vision.
+
+---
+
+> **“Strong systems aren’t rushed — they’re engineered.”**
