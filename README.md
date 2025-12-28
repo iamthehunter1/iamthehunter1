@@ -8,11 +8,10 @@ Web • PWAs • Android • Cybersecurity • Bash • Python
 </p>
 
 ---
-
-## ⚡ About Me
-- 🧠 Learning cybersecurity, systems & strategic engineering  
-- 🛡️ Building **SHIELD** — a long-term intelligence initiative  
-- 🎯 Focused on scalable, secure, and purposeful tech  
+### ⚡ About Me
+- 🧠 Training in cybersecurity, coding, strategy & diplomacy  
+- 🛡️ Co-Founder of **SHIELD Intelligence**  
+- 🎯 Mission: Securing Tomorrow With Strategic Intelligence
 
 ---
 
