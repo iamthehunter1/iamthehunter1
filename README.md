@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=32&duration=3500&pause=1000&color=F9A826&center=true&vCenter=true&width=800&lines=iamthehunter1;Building+SHIELD;Engineering+Security+With+Purpose" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=32&duration=3500&pause=1000&color=F9A826&center=true&vCenter=true&width=800&lines=iamthehunter1;Future+Founder+of+SHIELD;Securing+Tomorrow+With+Strategic+Intelligence" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
 Web • PWAs • Android • Cybersecurity • Bash • Python
